@@ -98,16 +98,16 @@ MADE BY @TmMainChannel
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
 
-<a href="https://t.me/tmmainchannel"><img src="https://img.shields.io/badge/Join-Main%20Channel-green.svg?style=for-the-badge&logo=Telegram">
-<a href="https://t.me/technomindzchat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/VGCINEMAS"><img src="https://img.shields.io/badge/Join-Main%20Channel-green.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/VGCINEMAS"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
 
 ## CREATED BY
 
-* [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://t.me/TechnoMINDZYT)
+* [VGCINEMAS](https://t.me/TechnoMINDZYT)
 ## Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Thanks to 
 
  - [EvaMaria](https://github.com/EvamariaTG/EvaMaria)
- - Thanks To [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/CommonBot_For_All)
+ - Thanks To [VGCINEMAS](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/CommonBot_For_All)
  - Thanks To All Of My Subscribers😊
